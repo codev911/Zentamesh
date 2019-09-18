@@ -1,4 +1,4 @@
-#### Zentamesh
+#### Zentamesh - Connect from nowhere to everywhere.
 
 Operating Frequencies:
 
