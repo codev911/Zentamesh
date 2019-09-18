@@ -18,3 +18,8 @@ Latin America & SE-Asia - 922MHz
 ```
 IEEE 802.11, Bluetooth
 ```
+
+
+
+[This project is under active development, there may be breaking changes.]
+[Copyright all rights reserved Zentachain.io]
